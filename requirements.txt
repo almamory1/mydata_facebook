@@ -1,4 +1,3 @@
-python-telegram-bot==13.15
-requests
-urllib3
-six
+git add requirements.txt
+git commit -m "Fix dependencies: add urllib3 and six"
+git push
